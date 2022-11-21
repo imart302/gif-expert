@@ -51,7 +51,7 @@ export interface Images {
   preview: Preview
   preview_gif: PreviewGif
   preview_webp: PreviewWebp
-  hd: Hd
+  hd?: Hd
   "480w_still": N480wStill
 }
 

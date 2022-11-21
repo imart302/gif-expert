@@ -1,0 +1,23 @@
+// Vitest Snapshot v1
+
+exports[`Tests on <App> > should match snapshot 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1>
+      Gif expert app
+    </h1>
+    <br />
+    <form
+      aria-label="form"
+    >
+      <input
+        placeholder=""
+        type="text"
+        value=""
+      />
+    </form>
+  </div>
+</div>
+`;

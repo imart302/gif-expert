@@ -1,0 +1,33 @@
+// Vitest Snapshot v1
+
+exports[`test in <GifItem> > should match snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitama"
+      src="https://saitama.com/image"
+    />
+    <p>
+      Saitama
+    </p>
+  </div>
+</div>
+`;
+
+exports[`test in <GifItem> should match snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitama"
+      src="https://saitama.com/image"
+    />
+    <p>
+      Saitama
+    </p>
+  </div>
+</div>
+`;
